@@ -1,7 +1,3 @@
-Certainly! Here's a description for a Health and Nutrition Quiz that you can use on GitHub:
-
----
-
 **Health and Nutrition Quiz**
 
 Welcome to the Health and Nutrition Quiz! 🥦🏋️‍♀️
